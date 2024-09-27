@@ -1,5 +1,5 @@
 [Fleet]: https://jetbrains.com/fleet/
-[OAuth2]: https://oauth.net/2/
+[JWT]: https://jwt.io/
 [SAML]: https://wiki.oasis-open.org/security/FrontPage
 [VSCode]: https://code.visualstudio.com/docs
 [XACML]: https://www.oasis-open.org/standards/
@@ -11,8 +11,7 @@ Authentication and Authorization Data Interchange Format Implementations
 
 ## Features
 
-- JavaScript Object Notation Web Token
-- Open Authentication 2.0[[OAuth2]]
+- JavaScript Object Notation Web Token[JWT]
 - Security Assertion Markup Language[SAML]
 - Extensible Access Control Markup Language[XACML]
 
