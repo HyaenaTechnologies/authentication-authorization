@@ -1,4 +1,3 @@
-[Fleet]: https://jetbrains.com/fleet/
 [JWT]: https://jwt.io/
 [SAML]: https://wiki.oasis-open.org/security/FrontPage
 [VSCode]: https://code.visualstudio.com/docs
@@ -17,7 +16,6 @@ Authentication and Authorization Data Interchange Format Implementations
 
 ## Build
 
-- [JetBrains Fleet][Fleet]
 - [Visual Studio Code][VSCode]
 - [Zig][Zig Language]
 
