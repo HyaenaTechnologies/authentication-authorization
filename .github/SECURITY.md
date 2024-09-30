@@ -1,4 +1,4 @@
-[Report]: https://github.com/HyaenaTechnologies/authentication_authorization/security/advisories
+[Report]: https://github.com/HyaenaTechnologies/authentication-authorization/security/advisories
 
 # Security Policy
 
